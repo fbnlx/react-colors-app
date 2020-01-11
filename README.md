@@ -1,3 +1,9 @@
+This app is the main course project of Colt Steele's "The Modern React Bootcamp" course, and was created largely in a code-along fashion.
+
+## Description
+
+This responsive web application allows you to browse and create your own color palettes, view the different available shades of your color boxes, and copy the hex or rgb code of any of your color boxes with a single click.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
